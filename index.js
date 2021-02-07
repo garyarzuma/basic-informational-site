@@ -1,5 +1,3 @@
-const http = require("http");
-const { URL, URLSearchParams } = require("url");
 const fs = require("fs");
 const express = require("express");
 const app = express();
